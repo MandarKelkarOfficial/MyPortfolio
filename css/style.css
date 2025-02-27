@@ -269,6 +269,11 @@
   border: solid 2px  rgba(98, 68, 197, 0.9);
 
 }
+.portfolio-img-cert {
+  position: relative;
+  border: solid 2px  rgba(68, 213, 80, 0.9);
+
+}
 
 .portfolio-btn {
   position: absolute;
