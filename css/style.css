@@ -529,3 +529,8 @@
   opacity: 1;
   bottom: 20px;
 }
+
+
+::-webkit-scrollbar{
+  width: 0px;
+}
